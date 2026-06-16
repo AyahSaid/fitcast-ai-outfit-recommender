@@ -57,6 +57,20 @@ This project was developed as a Computer Science senior project at the German Jo
 - Personalized settings synchronized across sessions.
 
 ---
+## 📱 Application Screenshots
+
+### Welcome Experience
+![Welcome Screen](screenshots/welcome-screen.png)
+
+### AI Outfit Assistant
+![Avatar Chat](screenshots/avatar-chat.png)
+
+### Personalized Outfit Recommendation
+![Outfit Recommendation](screenshots/outfit-recommendation.png)
+
+### Weather-Aware Layer Suggestions
+![Commute Layer](screenshots/commute-layer.png)
+
 
 ## Technology Stack
 
