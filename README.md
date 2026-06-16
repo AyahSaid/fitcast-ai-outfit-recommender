@@ -56,21 +56,33 @@ This project was developed as a Computer Science senior project at the German Jo
 - User profiles stored using Firebase Firestore.
 - Personalized settings synchronized across sessions.
 
----
-## 📱 Application Screenshots
 
-### Welcome Experience
-![Welcome Screen](screenshots/welcome-screen.png)
+---## 📱 Application Screenshots
 
-### AI Outfit Assistant
-![Avatar Chat](screenshots/avatar-chat.png)
+<p align="center">
+  <img src="screenshots/welcome-screen.png" width="220" alt="Welcome Screen"/>
+  <img src="screenshots/avatar-chat.png" width="220" alt="AI Avatar Assistant"/>
+</p>
 
-### Personalized Outfit Recommendation
-![Outfit Recommendation](screenshots/outfit-recommendation.png)
+<p align="center">
+  <b>Welcome Experience</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>AI Outfit Assistant</b>
+</p>
 
-### Weather-Aware Layer Suggestions
-![Commute Layer](screenshots/commute-layer.png)
+<p align="center">
+  <img src="screenshots/outfit-recommendation.png" width="220" alt="Outfit Recommendation"/>
+  <img src="screenshots/commute-layer.png" width="220" alt="Weather Aware Layering"/>
+</p>
 
+<p align="center">
+  <b>Personalized Outfit Recommendation</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Weather-Aware Layer Suggestions</b>
+</p>
+
+<br>
+
+FitCast provides a personalized outfit recommendation experience powered by real-time weather data, machine learning predictions, user preferences, and context-aware clothing rules. The application includes an interactive avatar assistant, adaptive weather backgrounds, outfit visualization, and dynamic layering recommendations for daily commutes and activities.
 
 ## Technology Stack
 
